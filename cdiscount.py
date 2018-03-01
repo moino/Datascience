@@ -55,6 +55,8 @@ df_train['Categorie1'] = df_train['Categorie1'].map(di_rayon1)
 df_train['Categorie2'] = df_train['Categorie2'].map(di_rayon2)
 df_train['Categorie3'] = df_train['Categorie3'].map(di_rayon3)
 
+""test""
+
 print 'demarrage analyse classe'
 
 
